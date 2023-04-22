@@ -7,7 +7,7 @@ In support of this, I do full stack engineering with skills including:
 * 🖥 DevOps with server provisioning and security
 * 📊 Data visualization with interactive and static graphics
 * 🗺 Spatial analysis, visualization, and teaching in both open source and proprietary toolchains
-* ETL pipelines and data management for research and applications too small for large data management platforms.
+* 📁 ETL pipelines and data management for research and applications too small for large data management platforms.
 
 <!--
 **nickrsan/nickrsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
