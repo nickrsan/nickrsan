@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm a [**research software engineer**](https://us-rse.org) specializing in:
+I'm a [**research software engineer**](https://us-rse.org/about/what-is-an-rse/) specializing in:
 * 🗺 spatial analysis
 * 🤔 decisions support applications
 * ⬆ and optimization modeling
