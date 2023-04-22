@@ -3,7 +3,7 @@
 I'm a research software engineer specializing in:
 * 🗺 spatial analysis
 * 🤔 decisions support applications
-*  and optimization modeling
+* ⬆ and optimization modeling
 
 especially for water, environmental, and agricultural questions in California and the western United States.
 
