@@ -15,10 +15,14 @@ In support of this, I do **full stack engineering** with skills including:
 * 📁 ETL pipelines and data management for research and applications too small for large data management platforms.
 
 ## Repositories
-Check out the **pinned repositories below**, but in addition, here are some other cool repositories I've worked on:
+Check out the **pinned repositories below**, but in addition, here are some other cool public repositories I've worked on:
+* [ArcMap/ArcGIS Pro Python Mapping Compatibility Layer (Amaptor)](https://github.com/ucd-cws/amaptor)
 * McMurdo Oceanographic Observatory: [API and kiosk application](https://github.com/nickrsan/icefish_backend), [sensor communication](https://github.com/nickrsan/seabird_ctd)
 * Groundwater Nitrate Modeling Decision Support: [Backend API](https://github.com/UCD-GW-Nitrate/npsat_web_backend)
 * Environmental Flows Optimization: [Application](https://github.com/ceff-tech/belleflopt)
+* [PISCES Fish Range Data Downscaling](https://github.com/ceff-tech/ProbabilisticPISCES)
+* Groundwater Nitrate Modeling: [Data Portal](https://ucd-cws.github.io/nitrates/), [Cloud-Optimized GeoTIFFs](https://github.com/ucd-cws/nitrates-cv)
+* 
 
 ## Portfolio
 You can find my portfolio at https://nicksantos.com - note that as of May 2024 it remains a bit out of date, but I'm working on it.
