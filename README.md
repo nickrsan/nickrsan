@@ -22,7 +22,6 @@ Check out the **pinned repositories below**, but in addition, here are some othe
 * Environmental Flows Optimization: [Application](https://github.com/ceff-tech/belleflopt)
 * [PISCES Fish Range Data Downscaling](https://github.com/ceff-tech/ProbabilisticPISCES)
 * Groundwater Nitrate Modeling: [Data Portal](https://ucd-cws.github.io/nitrates/), [Cloud-Optimized GeoTIFFs](https://github.com/ucd-cws/nitrates-cv)
-* 
 
 ## Portfolio
 You can find my portfolio at https://nicksantos.com - note that as of May 2024 it remains a bit out of date, but I'm working on it.
